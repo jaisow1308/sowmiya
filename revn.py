@@ -1,4 +1,4 @@
-a=int(input("Enter number: "))
+a=int(input())
 r=0
 while(a>0):
     dig=a%10
